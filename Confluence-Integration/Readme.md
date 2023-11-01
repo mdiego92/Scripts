@@ -7,11 +7,11 @@
 
 ## Summary
 
-This script allows you post events from Wazuh to your Confluence page. 
+This script allows you to post events from Wazuh to your Confluence page. 
 
 ## Execute the script.
 
-Example of configuration for the ossec.conf file:
+Example of a configuration for the ossec.conf file:
 
 ```
      <integration>
