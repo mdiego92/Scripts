@@ -37,5 +37,5 @@ This script allows you to get the information from the Security Configuration As
 ## Execute the script.
 
 ```
-python3 dale.py -a 001 -wh localhost -wp 55000 -wu wazuh-wui -wpass wazuh-wui -eh localhost -ep 9200 -eu wazuh -epass wazuh -i wazuh-alerts-4.x -v
+python3 sca.py -a 001 -wh localhost -wp 55000 -wu wazuh-wui -wpass wazuh-wui -eh localhost -ep 9200 -eu wazuh -epass wazuh -i wazuh-alerts-4.x -v
 ```
